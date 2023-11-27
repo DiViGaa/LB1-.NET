@@ -1,0 +1,15 @@
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\LB1.exe.config
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\LB1.exe
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\LB1.pdb
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.csproj.AssemblyReference.cache
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.exe
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.pdb
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\PrintClass.dll
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\PrintClass.pdb
+C:\Users\nikan\source\repos\LB1\LB1\obj\Debug\LB1.csproj.CopyComplete
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\Shift.dll
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\Shift.pdb
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\Calculate.dll
+C:\Users\nikan\source\repos\LB1\LB1\bin\Debug\Calculate.pdb

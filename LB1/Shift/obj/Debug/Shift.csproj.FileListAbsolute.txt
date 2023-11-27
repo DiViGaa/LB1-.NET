@@ -1,0 +1,6 @@
+C:\Users\nikan\source\repos\LB1\Shift\bin\Debug\Shift.dll
+C:\Users\nikan\source\repos\LB1\Shift\bin\Debug\Shift.pdb
+C:\Users\nikan\source\repos\LB1\Shift\obj\Debug\Shift.csproj.AssemblyReference.cache
+C:\Users\nikan\source\repos\LB1\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+C:\Users\nikan\source\repos\LB1\Shift\obj\Debug\Shift.dll
+C:\Users\nikan\source\repos\LB1\Shift\obj\Debug\Shift.pdb

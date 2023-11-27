@@ -1,0 +1,6 @@
+C:\Users\nikan\source\repos\LB1\Calculate\bin\Debug\Calculate.dll
+C:\Users\nikan\source\repos\LB1\Calculate\bin\Debug\Calculate.pdb
+C:\Users\nikan\source\repos\LB1\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\nikan\source\repos\LB1\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\nikan\source\repos\LB1\Calculate\obj\Debug\Calculate.dll
+C:\Users\nikan\source\repos\LB1\Calculate\obj\Debug\Calculate.pdb

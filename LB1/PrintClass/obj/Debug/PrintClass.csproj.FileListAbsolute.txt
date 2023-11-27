@@ -1,0 +1,6 @@
+C:\Users\nikan\source\repos\LB1\PrintClass\bin\Debug\PrintClass.dll
+C:\Users\nikan\source\repos\LB1\PrintClass\bin\Debug\PrintClass.pdb
+C:\Users\nikan\source\repos\LB1\PrintClass\obj\Debug\PrintClass.csproj.AssemblyReference.cache
+C:\Users\nikan\source\repos\LB1\PrintClass\obj\Debug\PrintClass.csproj.CoreCompileInputs.cache
+C:\Users\nikan\source\repos\LB1\PrintClass\obj\Debug\PrintClass.dll
+C:\Users\nikan\source\repos\LB1\PrintClass\obj\Debug\PrintClass.pdb
